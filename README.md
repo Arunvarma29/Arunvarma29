@@ -2,12 +2,10 @@
 
 I’m a Full Stack Developer focused on building scalable, efficient, and user-friendly web applications. I enjoy turning business ideas into clean digital products by combining thoughtful frontend design with strong backend architecture.
 
-I’m currently working on developing modern web solutions, improving my technical skills, and creating projects that solve real problems. I’m especially interested in building APIs, working with databases, and delivering smooth user experiences.
+I’m currently working on modern web solutions, improving my technical skills, and building projects that solve real problems. I’m especially interested in APIs, databases, system design, and delivering smooth user experiences.
 
-I enjoy collaborating on projects that involve full-stack development, system design, and continuous learning.
-
-## 🌐 Know More : 
-[![Portfolio]](https://myportfolio-ten-taupe-30.vercel.app/)
+## 🌐 Know More
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-ten-taupe-30.vercel.app/)
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -37,7 +35,8 @@ I enjoy collaborating on projects that involve full-stack development, system de
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunvarma29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=your-github-username&icon=0&color=0)](https://visitcount.itsvg.in)
- 
+[![](https://visitcount.itsvg.in/api?id=Arunvarma29&icon=0&color=0)](https://visitcount.itsvg.in)
