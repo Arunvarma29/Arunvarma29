@@ -1,6 +1,8 @@
-# Hi, I'm Arun 👋
+# Hola, I'm Arun 👋
 
-I'm a Full Stack Developer interested in building scalable, user-friendly web applications. I enjoy working across the frontend and backend to turn ideas into practical digital products.
+I'm a **Full Stack Developer** who builds **responsive, user-focused web applications** from interface to backend. I work with technologies including **JavaScript, TypeScript, React, Node.js, Express, MongoDB, and MySQL** to develop interactive experiences, integrate APIs, and work with application data.
+
+I value **clean, maintainable code**, thoughtful problem-solving, and reliable software. I'm continually strengthening my skills and enjoy turning ideas into practical digital products.
 
 ## Explore More at : 
 
