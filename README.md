@@ -40,9 +40,9 @@ I enjoy collaborating on projects that involve full-stack development, system de
 - Creating practical, high-impact projects
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Arunvarma29&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunvarma29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
