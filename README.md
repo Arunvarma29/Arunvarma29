@@ -2,12 +2,10 @@
 
 I'm a Full Stack Developer interested in building scalable, user-friendly web applications. I enjoy working across the frontend and backend to turn ideas into practical digital products.
 
-## What I Focus On
+## Explore More at : 
 
-- Building responsive, accessible user interfaces
-- Designing backend services and APIs
-- Working with databases and application architecture
-- Writing clean, maintainable code
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-ten-taupe-30.vercel.app/)
+
 
 ## Tech Stack
 
@@ -21,10 +19,3 @@ I'm a Full Stack Developer interested in building scalable, user-friendly web ap
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-## Explore
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-ten-taupe-30.vercel.app/)
-
-## Profile Views
-
-![Profile views](https://komarev.com/ghpvc/?username=Arunvarma29&label=Profile%20views&color=0e75b6&style=flat)
